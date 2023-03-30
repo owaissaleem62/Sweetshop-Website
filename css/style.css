@@ -112,7 +112,7 @@ body{
 .navbar-toggler {
   padding: 1px 5px;
   line-height: 0.3;
-  background-color: rgb(57, 55, 55);
+  /* background-color: rgb(57, 55, 55); */
   box-shadow: 1px 1px white;
 }
 
@@ -422,7 +422,7 @@ margin-top: 50px;
   .Logo2 {
     width:9vh; 
   height:9vh;
-  padding-bottom: 10px;
+  
   }
   .card{
     width: 70%;
