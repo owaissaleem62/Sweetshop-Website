@@ -275,7 +275,7 @@
 .card .face.back .ccvtext .ccv{
     position: relative;
     top: -42px;
-    left: 300px;
+    left: 240px;
     background-color:#fff;
     color: #111;
     width: 40px;
@@ -290,7 +290,7 @@
   }
   .card .face.back .text{
     position: absolute;
-    width: 320px;
+    width: 250px;
     bottom: 40px;
     left: 30px;
     right: 30px;
@@ -303,7 +303,7 @@
   }
   .card .face.back .ccvtext .input{
     position: relative;
-    width: 300px;
+    width: 250px;
     height: 40px;
     background: #fff;
     margin-top: 5px;
