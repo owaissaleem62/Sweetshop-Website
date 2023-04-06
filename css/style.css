@@ -88,7 +88,7 @@ body{
   color: rgb(235, 230, 230);
 }
 
-.dropmore:hover {
+/* .dropmore:hover {
   background-color: #999;
   color: rgb(235, 230, 230);
 }
@@ -100,7 +100,7 @@ body{
 
 .category:hover>.collapse {
   display: block;
-}
+} */
 
 .bgnave {
   height: 80px;
@@ -114,6 +114,8 @@ body{
   line-height: 0.3;
   /* background-color: rgb(57, 55, 55); */
   box-shadow: 1px 1px white;
+  width: 38px;
+  height: 29px;
 }
 
 @media only screen and (min-width: 220px) and (max-width: 991px) {
@@ -420,8 +422,9 @@ margin-top: 50px;
 }
 @media only screen and (min-width: 220px) and (max-width: 998px) {
   .Logo2 {
-    width:9vh; 
-  height:9vh;
+    width:8vh; 
+  height:8vh;
+
   
   }
   .card{
@@ -480,13 +483,22 @@ margin-top: 50px;
 }
 
 .font2 {
-  font-size: 28px;
+  font-size: 24px;
   font-family: 'Arvo';
   text-shadow: 0.5px 0.5px black;
   text-decoration: underline;
   text-shadow: 0.5px 0.5px black;
   text-align: center;
   font-weight: bold;
+}
+
+.sweety2 {
+  color: rgb(194, 113, 32);
+  font-weight: bold;
+  text-shadow: 0.5px 0.5px black;
+  font-size: 24px;
+  text-decoration: underline;
+  text-align: center;
 }
 }
 
